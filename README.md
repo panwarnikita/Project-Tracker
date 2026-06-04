@@ -20,7 +20,8 @@ Follow these steps to set up the repository locally on your machine.
 
 ### 1. Clone the Repository
 Open your terminal and run:
-git clone <repository-url>
+git clone https://github.com/panwarnikita/Project-Tracker.git
+
 cd AI-Labs_Project-Tracker
 
 ---
