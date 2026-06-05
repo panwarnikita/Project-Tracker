@@ -6,7 +6,7 @@ function App() {
     { id: 2, name: "Company HR Portal", manager: "Rohan", status: "Inactive", teamCount: 3, commits: 0 },
     { id: 3, name: "Repository Insights Dashboard", manager: "Nikita", status: "Active", teamCount: 4, commits: 89 },
   ];
-
+ //Dashboard
   return (
     <div className="min-h-screen bg-slate-900 text-slate-100 font-sans">
       <header className="border-b border-slate-800 bg-slate-900/50 backdrop-blur sticky top-0 z-50">
