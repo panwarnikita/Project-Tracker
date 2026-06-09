@@ -59,7 +59,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 4. Start the FastAPI server:
-uvicorn main:app --reload
+   uvicorn main:app --reload --port 8001
 
 *The interactive API documentation will be available at http://127.0.0.1:8000/docs .*
 
